@@ -1,0 +1,10 @@
+C:\Users\herlof14\source\repos\Notepad grej\Notepad grej\bin\Debug\Notepad grej.exe.config
+C:\Users\herlof14\source\repos\Notepad grej\Notepad grej\bin\Debug\Notepad grej.exe
+C:\Users\herlof14\source\repos\Notepad grej\Notepad grej\bin\Debug\Notepad grej.pdb
+C:\Users\herlof14\source\repos\Notepad grej\Notepad grej\obj\Debug\Notepad grej.csprojAssemblyReference.cache
+C:\Users\herlof14\source\repos\Notepad grej\Notepad grej\obj\Debug\Notepad_grej.Properties.Resources.resources
+C:\Users\herlof14\source\repos\Notepad grej\Notepad grej\obj\Debug\Notepad grej.csproj.GenerateResource.cache
+C:\Users\herlof14\source\repos\Notepad grej\Notepad grej\obj\Debug\Notepad grej.csproj.CoreCompileInputs.cache
+C:\Users\herlof14\source\repos\Notepad grej\Notepad grej\obj\Debug\Notepad grej.exe
+C:\Users\herlof14\source\repos\Notepad grej\Notepad grej\obj\Debug\Notepad grej.pdb
+C:\Users\herlof14\source\repos\Notepad grej\Notepad grej\obj\Debug\Notepad_grej.Notepad.resources
